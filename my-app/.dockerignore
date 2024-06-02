@@ -1,0 +1,7 @@
+**/node_modules
+**/npm-debug.log
+build
+
+
+git config --global user.name jac
+git config --global user.email jacov141@gmail.com
